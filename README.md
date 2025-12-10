@@ -1,7 +1,3 @@
-Here’s a polished **README.md** you can use for your web development notes repo — clean, professional, and GitHub-ready:
-
----
-
 # 📘 Web Development Notes
 
 Notes made using **Perplexity AI** and based on **Love Babbar’s Web Development Playlist**, covering ** JavaScript, and React**.
